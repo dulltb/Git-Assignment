@@ -21,3 +21,7 @@ Step 10 - Added Name to README file in main branch
 Step 11 - Merged bug-fix-expiramental branch into bug-fix branch
 
 Step 12 - Added Steps 6 through 12 to STEPS file
+
+Step 13 - Merged bug-fix branch into main branch and resolved conflict in README file
+
+Step 14 - Added Steps 13 and 14 to STEPS file
